@@ -8,11 +8,11 @@ Documenting my projects, case studies and code explorations — All of my playin
 | --- | --- | --- | --- | --- |
 | Swadeshi | HTML, CSS, JavaScript | Express.js (Node.js), MongoDB | [live](https://github.com/tusharnankani/Swadeshi) | [link](https://github.com/tusharnankani/Swadeshi) |
 | E-Laaj | HTML, CSS, JavaScript | Flask | - | [link](https://github.com/tusharnankani/E-Laaj) |
-| VocalForLocal | HTML, CSS, JavaScript | Flask | [docs](https://tusharnankani.github.io/VocalForLocal) | [link](https://github.com/tusharnankani/VocalForLocal) |
+| VocalForLocal | HTML, CSS, JavaScript | Django | [docs](https://tusharnankani.github.io/VocalForLocal) | [link](https://github.com/tusharnankani/VocalForLocal) |
 | Undirected Graph | Next.js, MDX | - | [live](https://blog.tusharnankani.com) | [link](https://github.com/tusharnankani/undirected-graph) |
 | Aankh | React.js | Express.js (Node.js), MongoDB, Flask | [docs](https://tusharnankani.github.io/Aankh) |  [link](https://github.com/tusharnankani/Aankh) |
 | ScanRE | React.js, Vite | Flask, Celery, [OpenAI GPT-4](https://platform.openai.com/docs/models/gpt-4), [ORT](https://oss-review-toolkit.org) | [docs](https://scanre.github.io/ScanRE), [demo](https://youtu.be/C9mS0H-aYro) | [link](https://github.com/ScanRE/ScanRE) |
-| DeepMint | HTML, CSS, JavaScript | Django,  | [live](https://deepmint.onrender.com) | [link](https://github.com/shobhitmir/deepmint-hacks) |
+| DeepMint | HTML, CSS, JavaScript, Solidity | Django, [MetaMask](https://metamask.io), [Ganache](https://trufflesuite.com/docs/ganache), [Truffle](https://trufflesuite.com) | [live](https://deepmint.onrender.com) | [link](https://github.com/shobhitmir/deepmint-hacks) |
 
 ## Web Sites
 
