@@ -28,7 +28,7 @@ Documenting my projects, case studies and code explorations — All of my playin
 | [void in the wild](https://github.com/tusharnankani/tusharnankani.com) | HTML, CSS, JavaScript | [live](https://tusharnankani.com) | My portfolio — Singular Convergence |
 | [color-picker](https://github.com/tusharnankani/color-picker) | HTML, CSS, JavaScript | [live](https://tusharnankani.github.io/color-picker) | A Simple Color Picker/Generator |
 | [scheduler](https://github.com/tusharnankani/ToDoList) | HTML, CSS, JavaScript | [live](https://tusharjustdoit.netlify.app) | A dynamic and aesthetic To-Do List Website |
-| [samay](https://github.com/tusharnankani/AnalogClock) | HTML, CSS, JavaScript | [live](https://tusharnankani.github.io/AnalogCatalog) | Analog Clock with added Neomorphic effects |
+| [samay](https://github.com/tusharnankani/AnalogClock) | HTML, CSS, JavaScript | [live](https://tusharnankani.github.io/AnalogClock) | Analog Clock with added Neomorphic effects |
 
 ## Code Experimentations
 
